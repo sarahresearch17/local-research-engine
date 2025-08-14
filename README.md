@@ -10,4 +10,4 @@ Tech: Python, SQLite (FTS5), Streamlit.
 3) python ingest.py
 4) streamlit run app.py
 
-Notes: Initial build August 2025. Expanding corpus and metadata over time.
+Notes: Initial build Summer 2025. Expanding corpus and metadata over time.
